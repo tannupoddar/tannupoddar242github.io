@@ -5,7 +5,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 
 <br><br>Here's the link for you to watch the sessions as well<br>
 
-<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png" , weidth=100px , height=100px> </a>
+<a href="https://youtube.com/playlist?list=PL7zl8TDRnbun7K0fECtSMCI2hOCgLBy9a"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/WebD%20poster.png"> </a>
 
 <br>I got to have hands on experience on:
 
