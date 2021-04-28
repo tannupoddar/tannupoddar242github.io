@@ -1,4 +1,5 @@
-#   SHAPEAI WEB DEV BOOTCAMP
+#SHAPEAI WEB DEV BOOTCAMP<br>
+
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI.</b><br>
 
 <p>The instructor during the session was <i>Mr. Shaurya Sinha</i> (Data Analyst Intern at Jio). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.</p>
@@ -23,9 +24,6 @@ www.shapeai.tech
 or follow SHAPEAI on:
 
 <li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a>
-
 <li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-
 <li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
-
 <li><a href="https://github.com/shapeai">GitHub</a>
